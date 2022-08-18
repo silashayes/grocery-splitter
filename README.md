@@ -1,3 +1,5 @@
 # grocery-splitter
 
 This project aims to solve one of the chief problems that many students and myself encounter when living with others — how to split groceries. My house preferred to go on one trip for everyone and eat family-style meals each night. This was fantastic for having built-in relaxation time for everyone but not great when it came time to divvy up costs. Each receipt became an argument. To factor in both what each individual actually eats from a grocery bill, as well as how much each person eats, I created a Python script that takes a csv of the bill as its input, and delivers as its output the cost per person, factoring in which items from the bill each roommate eats and how much they eat compared to the other roommates. It completely solved our bickering and nit-picking over grocery bills and allowed us to continue shopping and eating together.
+
+I started with the Jupyter Notebook, and then transferred that code over to a Python script and cleaned it up for ease of use.
